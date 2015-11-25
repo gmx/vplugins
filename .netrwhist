@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/gmx/Documents'
+let g:netrw_dirhist_2='/home/gmx/Projects/RonetzSchool/vendor/bin/app/tests/acceptance'
+let g:netrw_dirhist_3='/home/gmx/Desktop/unicef/hr'
+let g:netrw_dirhist_4='/home/gmx/Desktop/unicef/hr/villageTracts.csv'
